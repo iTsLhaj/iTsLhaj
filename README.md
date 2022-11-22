@@ -84,5 +84,5 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <img  src="https://github-readme-stats.vercel.app/api?username=iTsLhaj&&show_icons=true&theme=transparent"/>
   </a>
   </p>
-<p style="display:none">how can i help u ? :: iiTsLhaj@proton.me</p>
-<p style="font-size: 1px">~_~</p>
+
+[//]: <> (how can i help u ? :: iiTsLhaj@proton.me)
