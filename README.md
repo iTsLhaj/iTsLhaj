@@ -81,7 +81,15 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=iTsLhaj&&show_icons=true&theme=transparent"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=iTsLhaj&&show_icons=true&theme=Gradient"/>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTsLhaj&layout=Gradient"/>
   </a>
   </p>
 
