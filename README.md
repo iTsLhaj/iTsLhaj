@@ -92,7 +92,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTsLhaj&layout=Gradient&theme=gradient"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTsLhaj&layout=Gradient&theme=transparent"/>
   </a>
   </p>
 
