@@ -4,7 +4,7 @@
 ![](https://dcbadge.vercel.app/api/shield/991691568262156379) [![](https://dcbadge.vercel.app/api/server/PK93fj8Rs3)](https://discord.gg/PK93fj8Rs3)
 <br>
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="/assets/top.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="assets/top.gif">
 </div>
 
 </br>
@@ -15,7 +15,7 @@
 
 ### - 19 years  old Penetration Tester & Game Dev Enthusiast from Morocco.
 
-<img hight="400" width="500" alt="GIF" align="right" src="/assets/mid.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="assets/mid.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms Using C
