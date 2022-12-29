@@ -4,7 +4,7 @@
 ![](https://dcbadge.vercel.app/api/shield/991691568262156379) [![](https://dcbadge.vercel.app/api/server/PK93fj8Rs3)](https://discord.gg/PK93fj8Rs3)
 <br>
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="/assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="/assets/top.gif">
 </div>
 
 </br>
@@ -15,7 +15,7 @@
 
 ### - 19 years  old Penetration Tester & Game Dev Enthusiast from Morocco.
 
-<img hight="400" width="500" alt="GIF" align="right" src="/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="/assets/mid.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms Using C
@@ -68,7 +68,7 @@
  </br>
 
 
-<img hight="320" width="450" align="right" id="GIF" src="https://64.media.tumblr.com/fa23e5a72c70a10b8256ec5ab4818bb8/1889dc045515689f-d7/s540x810/fa5533ff463345d332b818c6fc85ef389ee9143b.gifv">
+<img hight="320" width="450" align="right" id="GIF" src="assets/bottom.gif">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
