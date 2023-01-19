@@ -96,7 +96,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 </br>
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/iTsLhaj/iTsLhaj/blob/output/github-contribution-grid-snake.gif)
 </br>
 </br>
 </br>
