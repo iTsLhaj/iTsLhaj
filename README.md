@@ -98,18 +98,11 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 </br>
-
-<img  src="https://github-readme-stats.vercel.app/api?username=iTsLhaj&&show_icons=true&layout=Gradient&theme=midnight-purple"/>
-
 </br>
 </br>
 </br>
 </br>
 </br>
-
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTsLhaj&layout=Gradient&theme=transparent"/>
-  </a>
-  </p>
 
 [//]: <> (how can i help u ? :: iiTsLhaj@proton.me)
 [//]: <> (~~)
