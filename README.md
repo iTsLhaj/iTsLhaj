@@ -97,7 +97,11 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 
-![snake gif](https://github.com/iTsLhaj/iTsLhaj/blob/output/github-contribution-grid-snake.svg)
+<div>
+ <a href="https://github.com/iTsLhaj/iTsLhaj/blob/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="snake animation" src="https://github.com/iTsLhaj/iTsLhaj/blob/output/github-contribution-grid-snake.svg"/>
+ </a>
+</div>
 
 </br>
 </br>
