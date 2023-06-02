@@ -90,6 +90,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </a>
  </p>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/DesTroYeR258.png" align="left" alt="TryHackMe">
+
 </br>
 </br>
 </br>
@@ -106,8 +108,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 </br>
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/DesTroYeR258.png" alt="TryHackMe">
 
 </br>
 </br>
