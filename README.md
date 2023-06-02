@@ -107,7 +107,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 
-<script src="https://tryhackme.com/badge/107535"></script>
+
 
 </br>
 </br>
