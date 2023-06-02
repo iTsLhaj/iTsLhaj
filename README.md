@@ -89,12 +89,10 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   <img align="left" alt="Steam" width="185" hight="100" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
- 
 </br>
-
+</br>
+</br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/DesTroYeR258.png" align="left" alt="TryHackMe">
-
-</br>
 </p>
 
 </br>
