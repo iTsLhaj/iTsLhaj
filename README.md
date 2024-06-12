@@ -19,7 +19,7 @@
 
 ### - Learning :
 
-[![<username>'s 42 stats]([https://badge.mediaplus.ma/darkblue/<username>](https://c4034d41-1343-4181-a3ab-f612465728b5-00-2r08v54tcbked.spock.replit.dev/v1?name=hmouhib&image_url=https://i.pinimg.com/736x/e6/eb/15/e6eb154431387467803a990d04945a0d.jpg))](https://github.com/oakoudad/badge42)
+[![<username>'s 42 stats](https://c4034d41-1343-4181-a3ab-f612465728b5-00-2r08v54tcbked.spock.replit.dev/v1?name=hmouhib&image_url=https://i.pinimg.com/736x/e6/eb/15/e6eb154431387467803a990d04945a0d.jpg)](https://github.com/oakoudad/badge42)
 
 ### - Hobbies : 
 - ✨ Gaming Addict
