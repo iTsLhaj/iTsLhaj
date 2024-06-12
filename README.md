@@ -19,7 +19,7 @@
 
 ### - Learning :
 
-![gkrj]([https://stackoverflow.com/questions/11773348/python-flask-how-to-set-content-type](https://i.pinimg.com/736x/e6/eb/15/e6eb154431387467803a990d04945a0d.jpg))
+![gkrj](https://i.pinimg.com/736x/e6/eb/15/e6eb154431387467803a990d04945a0d.jpg)
 
 ### - Hobbies : 
 - ✨ Gaming Addict
