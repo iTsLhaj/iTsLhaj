@@ -19,7 +19,9 @@
 
 ### - Learning :
 
-![my 42 stats](https://c4034d41-1343-4181-a3ab-f612465728b5-00-2r08v54tcbked.spock.replit.dev/v1?name=msbai&image_url=https://i.pinimg.com/564x/0f/12/19/0f121925e643c9601a2b5d1f0362ce3e.jpg)
+[//]: <> ![my 42 stats](https://c4034d41-1343-4181-a3ab-f612465728b5-00-2r08v54tcbked.spock.replit.dev/v1?name=msbai&image_url=https://i.pinimg.com/564x/0f/12/19/0f121925e643c9601a2b5d1f0362ce3e.jpg)
+
+![gkrj](https://stackoverflow.com/questions/11773348/python-flask-how-to-set-content-type)
 
 ### - Hobbies : 
 - ✨ Gaming Addict
