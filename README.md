@@ -19,7 +19,7 @@
 
 ### - Learning :
 
-![my 42 stats](https://c4034d41-1343-4181-a3ab-f612465728b5-00-2r08v54tcbked.spock.replit.dev/v1?name=hmouhib&image_url=https://i.pinimg.com/736x/e6/eb/15/e6eb154431387467803a990d04945a0d.jpg)
+![my 42 stats](https://c4034d41-1343-4181-a3ab-f612465728b5-00-2r08v54tcbked.spock.replit.dev/v1?name=msbai&image_url=https://i.pinimg.com/564x/0f/12/19/0f121925e643c9601a2b5d1f0362ce3e.jpg)
 
 ### - Hobbies : 
 - ✨ Gaming Addict
