@@ -4,7 +4,7 @@
 ![](https://dcbadge.vercel.app/api/shield/991691568262156379) [![](https://dcbadge.vercel.app/api/server/PK93fj8Rs3)](https://discord.gg/PK93fj8Rs3)
 <br>
 <div align="center">
-<img hight="400" width="800" alt="GIF" align="center" src="assets/new_mid.gif">
+<img hight="400" width="800" alt="GIF" align="center" src="https://github.com/user-attachments/assets/fc513e19-faaf-49b9-b723-d4bc5ac1ac18">
 </div>
 
 </br>
